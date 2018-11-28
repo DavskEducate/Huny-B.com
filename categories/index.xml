@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huny-B CBD-Oil - Educate Yourself!</title>
+    <link>https://Huny-B.com/categories/</link>
+    <description>Recent content on Huny-B CBD-Oil - Educate Yourself!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:28:21 -0600</lastBuildDate>
+    
+	<atom:link href="https://Huny-B.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Success</title>
+      <link>https://Huny-B.com/pages/shopping/success/</link>
+      <pubDate>Wed, 28 Nov 2018 15:28:21 -0600</pubDate>
+      
+      <guid>https://Huny-B.com/pages/shopping/success/</guid>
+      <description>&lt;h1 id=&#34;thank-you-for-your-order&#34;&gt;Thank you for your order!&lt;/h1&gt;
+
+&lt;h3 id=&#34;we-will-notify-you-when-your-order-has-ben-processed&#34;&gt;We will notify you when your order has ben processed.&lt;/h3&gt;
+
+&lt;h3 id=&#34;if-the-product-is-being-shipped-we-will-send-you-the-tracking&#34;&gt;If the product is being shipped, we will send you the Tracking&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cancel</title>
+      <link>https://Huny-B.com/pages/shopping/cancel/</link>
+      <pubDate>Wed, 28 Nov 2018 15:28:02 -0600</pubDate>
+      
+      <guid>https://Huny-B.com/pages/shopping/cancel/</guid>
+      <description>&lt;h1 id=&#34;order-has-been-cancelled&#34;&gt;Order has been cancelled!&lt;/h1&gt;
+
+&lt;h3 id=&#34;if-you-have-any-questions-about-our-products-you-may-contact-us&#34;&gt;If you have any questions about our products, you may contact us.&lt;/h3&gt;
+
+&lt;h3 id=&#34;i-hope-you-can-find-information-on-our-site-that-will-help-you-decide-what-products-will-be-most-helpful&#34;&gt;I hope you can find information on our site that will help you decide what products will be most helpful.&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sold Out</title>
+      <link>https://Huny-B.com/pages/shopping/sold-out/</link>
+      <pubDate>Wed, 28 Nov 2018 15:16:39 -0600</pubDate>
+      
+      <guid>https://Huny-B.com/pages/shopping/sold-out/</guid>
+      <description> Sorry, this item is sold out. We are manufacturing a new batch each week. You can request that we contact you when the next batch is ready. </description>
+    </item>
+    
+  </channel>
+</rss>
